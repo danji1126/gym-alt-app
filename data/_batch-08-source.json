@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "Smith_Machine_Calf_Raise",
+    "name": "Smith Machine Calf Raise",
+    "instructions": [
+      "Place a block or weight plate below the bar on the Smith machine. Set the bar to a position that best matches your height. Once the correct height is chosen and the bar is loaded, step onto the plates with the balls of your feet and place the bar on the back of your shoulders.",
+      "Take the bar with both hands facing forward. Rotate the bar to unrack it. This will be your starting position.",
+      "Raise your heels as high as possible by pushing off of the balls of your feet, flexing your calf at the top of the contraction. Your knees should remain extended. Hold the contracted position for a second before you start to go back down.",
+      "Return slowly to the starting position as you breathe in while lowering your heels.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Smith_Machine_Close-Grip_Bench_Press",
+    "name": "Smith Machine Close-Grip Bench Press",
+    "instructions": [
+      "Place a flat bench underneath the smith machine. Place the barbell at a height that you can reach when lying down and your arms are almost fully extended. Once the weight you need is selected, lie down on the flat bench. Using a close and pronated grip (palms facing forward) that is around shoulder width, unlock the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+      "As you breathe in, come down slowly until you feel the bar on your middle chest. Tip: Make sure that as opposed to a regular bench press, you keep the elbows close to the torso at all times in order to maximize triceps involvement.",
+      "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your triceps muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.",
+      "Repeat the movement for the prescribed amount of repetitions.",
+      "When you are done, lock the bar back in the rack."
+    ]
+  },
+  {
+    "id": "Smith_Machine_Decline_Press",
+    "name": "Smith Machine Decline Press",
+    "instructions": [
+      "Position a decline bench in the rack so that the bar will be above your chest. Load an appropriate weight and take your place on the bench.",
+      "Rotate the bar to unhook it from the rack and fully extend your arms. Your back should be slightly arched and your shoulder blades retracted. This will be your starting position.",
+      "Begin the movement by flexing your arms, lowering the bar to your chest.",
+      "Pause briefly, and then extend your arms to push the weight back to the starting position.",
+      "After completing the desired number of repetitions, rotate the bar to rack the weight."
+    ]
+  },
+  {
+    "id": "Smith_Machine_Hang_Power_Clean",
+    "name": "Smith Machine Hang Power Clean",
+    "instructions": [
+      "Position the bar at knee height and load it to an appropriate weight.",
+      "Take a pronated grip on the bar outside of shoulder width and unhook the bar from the machine. Your arms should be fully extended with your head and chest up. Your elbows should be pointed out with your shoulders back and down. Your hips should be back, loading the tension into the hamstrings. This will be your starting position.",
+      "Initate the movement by forcefully extending the hips and knees, accelerating into the bar. Ensure that you keep your arms straight during this part of the motion.",
+      "Upon full extension, rebend the hips and knees to lower your receiving position.",
+      "Allow the arms to flex at this point, rotating the elbows around the bar to receive it on your shoulders.",
+      "Extend through the hips and knees to come to a standing position with the bar racked on your shoulders to complete the movement."
+    ]
+  },
+  {
+    "id": "Smith_Machine_Hip_Raise",
+    "name": "Smith Machine Hip Raise",
+    "instructions": [
+      "Position a bench in the rack and load the bar to an appropriate weight. Lie down on the bench, placing the bottom of your feet against the bar. Unlock the bar and extend your legs. You may need to use your hands to assist you. For added stability grasp the sides of the Smith Machine. This will be your starting position.",
+      "Initiate the movement by rotating your pelvis, flexing your spine to raise your hips off of the bench. Maintain a slight bend in the knees throughout the motion.",
+      "After a brief pause, return the hips to the bench.",
+      "Repeat for the desired number of repetitions."
+    ]
+  },
+  {
+    "id": "Smith_Machine_Incline_Bench_Press",
+    "name": "Smith Machine Incline Bench Press",
+    "instructions": [
+      "Place an incline bench underneath the smith machine. Place the barbell at a height that you can reach when lying down and your arms are almost fully extended. Once the weight you need is selected, lie down on the incline bench and make sure your upper chest is aligned with the barbell. Using a pronated grip (palms facing forward) that is wider than shoulder width, unlock the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+      "As you breathe in, come down slowly until you feel the bar on your upper chest.",
+      "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.",
+      "Repeat the movement for the prescribed amount of repetitions.",
+      "When you are done, place the bar back in the rack."
+    ]
+  },
+  {
+    "id": "Smith_Machine_Leg_Press",
+    "name": "Smith Machine Leg Press",
+    "instructions": [
+      "Position a Smith machine bar a couple feet off of the ground. Ensure that it is resting on the safeties. After loading the bar to an appropriate weight, lie underneath the bar. Place the middle of your feet on the bar, tucking your knees to your chest. This will be your starting position.",
+      "Begin the movement by driving through your feet to move the bar upward, extending the hips and knees. Do not lock out your knees.",
+      "At the top of the motion, pause briefly before returning to the starting position."
+    ]
+  },
+  {
+    "id": "Smith_Machine_One-Arm_Upright_Row",
+    "name": "Smith Machine One-Arm Upright Row",
+    "instructions": [
+      "With the bar at thigh level, load an appropriate weight.",
+      "Take a wide grip on the bar and unhook the weight, removing your off hand from the bar. Your arm should be extended as you stand up straight with your head and chest up. This will be your starting position.",
+      "Begin the movement by flexing the elbow, raising the upper arm with the elbow pointed out. Continue until your upper arm is parallel to the floor.",
+      "After a brief pause, return the weight to the starting position.",
+      "Repeat for the desired number of repetitions before engaging the hooks to rack the weight."
+    ]
+  },
+  {
+    "id": "Smith_Machine_Overhead_Shoulder_Press",
+    "name": "Smith Machine Overhead Shoulder Press",
+    "instructions": [
+      "To begin, place a flat bench (or preferably one with back support) underneath a smith machine. Position the barbell at a height so that when seated on the flat bench, the arms must be almost fully extended to reach the barbell.",
+      "Once you have the correct height, sit slightly in behind the barbell so that there is an imaginary straight line from the tip of your nose to the barbell. Your feet should be stationary. Grab the barbell with the palms facing forward, unlock it and lift it up so that your arms are fully extended. This is the starting position.",
+      "Slowly begin to lower the barbell until it is level with your chin while inhaling.",
+      "Then lift the barbell back to the starting position using your shoulders while exhaling.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Smith_Machine_Pistol_Squat",
+    "name": "Smith Machine Pistol Squat",
+    "instructions": [
+      "To begin, first set the bar to a position that best matches your height. Step under it and position the bar across the back of your shoulders.",
+      "Take the bar with your hands facing forward, unlock it and lift it off the rack by extending your legs. 3",
+      "Move one foot forward about 12 inches in front of the bar. Extend the other leg out in front of you, holding it off the ground. Look forward at all times and maintain a neutral or slightly arched spine. This will be your starting position.",
+      "Maintaining good posture, lower yourself by flexing the knee and hip, going down as far as flexibility allows.",
+      "Pause briefly at the bottom and then return to the starting position by driving through the heel of your foot, extending the knee and hip."
+    ]
+  },
+  {
+    "id": "Smith_Machine_Reverse_Calf_Raises",
+    "name": "Smith Machine Reverse Calf Raises",
+    "instructions": [
+      "Adjust the barbell on the smith machine to fit your height and align a raised platform right under the bar.",
+      "Stand on the platform with the heels of your feet secured on top of it with the balls of your feet extending off it. Position your toes facing forward with a shoulder width stance.",
+      "Now, place your shoulders under the barbell while maintaining the foot positioning described and push the barbell up by extending your hips and knees until your torso is standing erect. The knees should be kept with a slight bend; never locked. This will be your starting position. Tip: The barbell on your back is only for balance purposes.",
+      "Raise the balls of your feet as you breathe out by extending your toes as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position for a second before you start to go back down.",
+      "Slowly go back down to the starting position as you breathe in by lowering the balls of your feet and toes.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Smith_Machine_Squat",
+    "name": "Smith Machine Squat",
+    "instructions": [
+      "To begin, first set the bar on the height that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+      "Hold on to the bar using both arms at each side (palms facing forward), unlock it and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+      "Position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times and also maintain a straight back. This will be your starting position. (Note: For the purposes of this discussion we will use the medium stance which targets overall development; however you can choose any of the three stances discussed in the foot stances section).",
+      "Begin to slowly lower the bar by bending the knees as you maintain a straight posture with the head up. Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
+      "Begin to raise the bar as you exhale by pushing the floor with the heel of your foot as you straighten the legs again and go back to the starting position.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Smith_Machine_Stiff-Legged_Deadlift",
+    "name": "Smith Machine Stiff-Legged Deadlift",
+    "instructions": [
+      "To begin, set the bar on the smith machine to a height that is around the middle of your thighs. Once the correct height is chosen and the bar is loaded, grasp the bar using a pronated (palms forward) grip that is shoulder width apart. You may need some wrist wraps if using a significant amount of weight.",
+      "Lift the bar up by fully extending your arms while keeping your back straight. Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",
+      "Keeping the knees stationary, lower the barbell to over the top of your feet by bending at the waist while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Exhale as you perform this movement",
+      "Start bringing your torso up straight again as soon as you feel the hamstrings stretch by extending your hips and waist until you are back at the starting position. Inhale as you perform this movement.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Smith_Machine_Upright_Row",
+    "name": "Smith Machine Upright Row",
+    "instructions": [
+      "To begin, set the bar on the smith machine to a height that is around the middle of your thighs. Once the correct height is chosen and the bar is loaded, grasp the bar using a pronated (palms forward) grip that is shoulder width apart. You may need some wrist wraps if using a significant amount of weight.",
+      "Lift the barbell up and fully extend your arms with your back straight. There should be a slight bend at the elbows. This is the starting position.",
+      "Use your side shoulders to lift the bar as you exhale. The bar should be close to the body as you move it up. Continue to lift it until it nearly touches your chin. Tip: Your elbows should drive the motion. As you lift the bar, your elbows should always be higher than your forearms. Also, keep your torso stationary and pause for a second at the top of the movement.",
+      "Lower the bar back down slowly to the starting position. Inhale as you perform this portion of the movement.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Smith_Single-Leg_Split_Squat",
+    "name": "Smith Single-Leg Split Squat",
+    "instructions": [
+      "To begin, place a flat bench 2-3 feet behind the smith machine. Then, set the bar on the height that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+      "Hold on to the bar using both arms at each side (palms facing forward), unlock it and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+      "Position your legs by placing one foot slightly forward under the bar and extending your other leg back and place the top of your foot on the bench. This will be your starting position",
+      "Begin to slowly lower the bar by bending the knee as you maintain a straight posture with the head up. Continue down until the angle between the upper leg and the calf becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knee should make an imaginary straight line with the toes that is perpendicular to the front. If your knee is past that imaginary line (if it is past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
+      "Begin to raise the bar as you exhale by pushing the floor with the heel of your foot mainly as you straighten your leg again and go back to the starting position.",
+      "Repeat for the recommended amount of repetitions.",
+      "Switch legs and repeat the movement."
+    ]
+  },
+  {
+    "id": "Snatch",
+    "name": "Snatch",
+    "instructions": [
+      "Place your feet at a shoulder width stance with the barbell resting right above the connection between the toes and the rest of the foot.",
+      "With a palms facing down grip, bend at the knees and keeping the back flat grab the bar using a wider than shoulder width grip. Bring the hips down and make sure that your body drops as if you were going to sit on a chair. This will be your starting position.",
+      "Start pushing the floor as if it were a moving platform with your feet and simultaneously start lifting the barbell keeping it close to your legs.",
+      "As the bar reaches the middle of your thighs, push the floor with your legs and lift your body to a complete extension in an explosive motion.",
+      "Lift your shoulders back in a shrugging movement as you bring the bar up while lifting your elbows out to the side and keeping them above the bar for as long as possible.",
+      "Now in a very quick but powerful motion, you have to get your body under the barbell when it has reached a high enough point where it can be controlled and drop while locking your arms and holding the barbell overhead as you assume a squat position.",
+      "Finalize the movement by rising up out of the squat position to finish the lift. At the end of the lift both feet should be on line and the arms fully extended holding the barbell overhead."
+    ]
+  },
+  {
+    "id": "Snatch_Balance",
+    "name": "Snatch Balance",
+    "instructions": [
+      "Begin with the feet in the pulling position, the bar racked across the back of the shoulders, and the hands placed in a wide snatch grip.",
+      "Pop the bar with an abrupt dip and drive of the knees, and aggressively drive under the bar, transitioning the feet into the receiving position.",
+      "Receive the bar locked out overhead near the bottom of the squat. The torso should remain vertical, lowering the hips between the legs.",
+      "Continue to descend to full depth, and return to a standing position. Carefully lower the weight."
+    ]
+  },
+  {
+    "id": "Snatch_Deadlift",
+    "name": "Snatch Deadlift",
+    "instructions": [
+      "The snatch deadlift strengthens the first pull of the snatch. Begin with a wide snatch grip with the barbell placed on the platform. The feet should be directly under the hips, with the feet turned out. Squat down to the bar, keeping the back in absolute extension with the head facing forward.",
+      "Initiate the movement by driving through the heels, raising the hips. The back angle should remain the same until the bar passes the knees.",
+      "At that point, drive your hips through the bar as you lay back. Return the bar to the platform by reversing the motion."
+    ]
+  },
+  {
+    "id": "Snatch_Pull",
+    "name": "Snatch Pull",
+    "instructions": [
+      "With a barbell on the floor close to the shins, take a wide snatch grip. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.",
+      "Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight. Move the weight with control as you continue to above the knees.",
+      "Next comes the second pull, the main source of acceleration for the pull. As the bar approaches the mid-thigh position, begin extending through the hips. In a jumping motion, accelerate by extending the hips, knees, and ankles, using speed to move the bar upward.",
+      "There should be no need to actively pull through the arms to accelerate the weight; at the end of the second pull, the body should be fully extended, leaning slightly back. Full extension should be violent and abrupt, and ensure that you do not prolong the extension for longer than necessary."
+    ]
+  },
+  {
+    "id": "Snatch_Shrug",
+    "name": "Snatch Shrug",
+    "instructions": [
+      "Begin with a wide grip, with the bar hanging at the mid thigh position. You can use a hook or overhand grip. Your back should be straight and inclined slightly forward.",
+      "Shrug your shoulders towards your ears. While this exercise can usually by loaded with heavier weight than a snatch, avoid overloading to the point that the execution slows down."
+    ]
+  },
+  {
+    "id": "Snatch_from_Blocks",
+    "name": "Snatch from Blocks",
+    "instructions": [
+      "Begin with a loaded barbell on boxes or stands of the desired height. A wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar, with the elbows pointed out. This will be the starting position.",
+      "Begin the first pull by driving through the front of the heels, raising the bar from the boxes.",
+      "Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
+      "As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. The feet should move to just outside the hips, turned out as necessary. Receive the bar with your body as low as possible and the arms fully extended overhead.",
+      "Keeping the bar aligned over the front of the heels, your head and chest up, drive through heels of the feet to move to a standing position. Carefully return the weight to the boxes."
+    ]
+  },
+  {
+    "id": "Speed_Band_Overhead_Triceps",
+    "name": "Speed Band Overhead Triceps",
+    "instructions": [
+      "For this exercise anchor a band to the ground. We used an incline bench and anchored the band to the base, standing over the bench. Alternatively, this could be performed standing on the band.",
+      "To begin, pull the band behind your head, holding it with a pronated grip and your elbows up. This will be your starting position.",
+      "To perform the movement, extend through the elbow to to straighten your arms, ensuring that you keep your upper arm in place.",
+      "Pause, and then return to the starting position."
+    ]
+  },
+  {
+    "id": "Speed_Box_Squat",
+    "name": "Speed Box Squat",
+    "instructions": [
+      "Attach bands to the bar that are securely anchored near the ground. You may need to choke the bands to get adequate tension.",
+      "Use a box of an appropriate height for this exercise. Load the bar to a weight that still requires effort, but isn't so heavy that speed is compromised. Typically, that will be between 50-70% of your one rep max.",
+      "Position the bar on your upper back, shoulder blades retracted, back arched and everything tight head to toe. This will be the starting position.",
+      "Unrack the bar and position yourself in front of the box. Sit back with your hips until you are seated on the box, ensuring that you descend under control and don't crash onto the surface.",
+      "Pause briefly, and explode off of the box, extending through the hips and knees."
+    ]
+  },
+  {
+    "id": "Speed_Squats",
+    "name": "Speed Squats",
+    "instructions": [
+      "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+      "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+      "Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. This will be your starting position. (Note: For the purposes of this discussion we will use the medium stance which targets overall development; however you can choose any of the three stances discussed in the foot stances section).",
+      "Begin to lower the bar by bending the knees as you maintain a straight posture with the head up. Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
+      "Begin to raise the bar as fast as possible without involving momentum as you exhale by pushing the floor with the heel of your foot mainly as you straighten the legs again and go back to the starting position. Note: You should perform these exercises as fast as possible but without breaking perfect form and without involving momentum.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Spell_Caster",
+    "name": "Spell Caster",
+    "instructions": [
+      "Hold a dumbbell in each hand with a pronated grip. Your feet should be wide with your hips and knees extended. This will be your starting position.",
+      "Begin the movement by pulling both of the dumbbells to one side next to your hip, rotating your torso.",
+      "Keeping your arms straight and the dumbbells parallel to the ground, rotate your torso to swing the weights to your opposite side.",
+      "Continue alternating, rotating from one side to the other until the set is complete."
+    ]
+  },
+  {
+    "id": "Spider_Crawl",
+    "name": "Spider Crawl",
+    "instructions": [
+      "Begin in a prone position on the floor. Support your weight on your hands and toes, with your feet together and your body straight. Your arms should be bent to 90 degrees. This will be your starting position.",
+      "Initiate the movement by raising one foot off of the ground. Externally rotate the leg and bring the knee toward your elbow, as far forward as possible.",
+      "Return this leg to the starting position and repeat on the opposite side."
+    ]
+  },
+  {
+    "id": "Spider_Curl",
+    "name": "Spider Curl",
+    "instructions": [
+      "Start out by setting the bar on the part of the preacher bench that you would normally sit on. Make sure to align the barbell properly so that it is balanced and will not fall off.",
+      "Move to the front side of the preacher bench (the part where the arms usually lay) and position yourself to lay at a 45 degree slant with your torso and stomach pressed against the front side of the preacher bench.",
+      "Make sure that your feet (especially the toes) are well positioned on the floor and place your upper arms on top of the pad located on the inside part of the preacher bench.",
+      "Use your arms to grab the barbell with a supinated grip (palms facing up) at about shoulder width apart or slightly closer from each other.",
+      "Slowly begin to lift the barbell upwards and exhale. Hold the contracted position for a second as you squeeze the biceps.",
+      "Slowly begin to bring the barbell back to the starting position as your breathe in. .",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Spinal_Stretch",
+    "name": "Spinal Stretch",
+    "instructions": [
+      "Sit in a chair so your back is straight and your feet planted on the floor.",
+      "Interlace your fingers behind your head, elbows out and your chin down.",
+      "Twist your upper body to one side about 3 times as far as you can. Then lean forward and twist your torso to reach your elbow to the floor on the inside of your knee.",
+      "Return to upright position and then repeat for your other side."
+    ]
+  },
+  {
+    "id": "Split_Clean",
+    "name": "Split Clean",
+    "instructions": [
+      "With a barbell on the floor close to the shins, take an overhand grip just outside the legs. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.",
+      "Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight. Move the weight with control as you continue to above the knees.",
+      "Next comes the second pull, the main source of acceleration for the clean. As the bar approaches the mid-thigh position, begin extending through the hips. In a jumping motion, accelerate by extending the hips, knees, and ankles, using speed to move the bar upward. There should be no need to actively pull through the arms to accelerate the weight; at the end of the second pull, the body should be fully extended, leaning slightly back, with the arms still extended.",
+      "As full extension is achieved, transition into the third pull by aggressively shrugging and flexing the arms with the elbows up and out. At peak extension, aggressively pull yourself down, rotating your elbows under the bar as you do so.",
+      "Receive the bar with the feet split, aggressively moving one foot forward and one foot back. The bar should be racked onto the protracted shoulders, lightly touching the throat with the hands relaxed. Continue to descend to the bottom position, which will help in the recovery.",
+      "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Bring the feet together as you stand up."
+    ]
+  },
+  {
+    "id": "Split_Jerk",
+    "name": "Split Jerk",
+    "instructions": [
+      "Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward.",
+      "Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders. At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible.",
+      "In the brief moment the feet are not actively driving against the platform, the athlete's effort to push the bar up will drive them down. The feet should be moved to a split stance, one foot forward, one foot back, with the knees partially bent. Receive the bar with the arms locked out overhead.",
+      "Return to a standing position, bringing the feet together."
+    ]
+  },
+  {
+    "id": "Split_Jump",
+    "name": "Split Jump",
+    "instructions": [
+      "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
+      "Ensure that the front knee is over the midline of the foot.",
+      "Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
+      "As you jump, bring your feet together, and move them back to their initial positions as you land.",
+      "Absorb the impact by reverting back to the starting position."
+    ]
+  },
+  {
+    "id": "Split_Snatch",
+    "name": "Split Snatch",
+    "instructions": [
+      "Begin with a loaded barbell on the floor. The bar should be close to or touching the shins, and a wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.",
+      "Begin the first pull by driving through the front of the heels, raising the bar from the ground. The back angle should stay the same until the bar passes the knees.",
+      "Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
+      "As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. The feet should move forcefully to a split position, one foot forward one foot back. Receive the bar with your body as low as possible and the arms fully extended overhead.",
+      "Keeping the bar aligned over the front of the heels, your head and chest up, drive through heels of the feet to move to a standing position, bringing your feet together.",
+      "Carefully return the weight to floor."
+    ]
+  },
+  {
+    "id": "Split_Squat_with_Dumbbells",
+    "name": "Split Squat with Dumbbells",
+    "instructions": [
+      "Position yourself into a staggered stance with the rear foot elevated and front foot forward.",
+      "Hold a dumbbell in each hand, letting them hang at the sides. This will be your starting position.",
+      "Begin by descending, flexing your knee and hip to lower your body down. Maintain good posture througout the movement. Keep the front knee in line with the foot as you perform the exercise.",
+      "At the bottom of the movement, drive through the heel to extend the knee and hip to return to the starting position."
+    ]
+  },
+  {
+    "id": "Split_Squats",
+    "name": "Split Squats",
+    "instructions": [
+      "Being in a standing position. Jump into a split leg position, with one leg forward and one leg back, flexing the knees and lowering your hips slightly as you do so.",
+      "As you descend, immediately reverse direction, standing back up and jumping, reversing the position of your legs. Repeat 5-10 times on each leg."
+    ]
+  },
+  {
+    "id": "Squat_Jerk",
+    "name": "Squat Jerk",
+    "instructions": [
+      "Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders.",
+      "At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible. In the brief moment the feet are not actively driving against the platform, the athlete's effort to push the bar up will drive them down. The feet should move forcefully to just outside the hips, turned out as necessary. Receive the bar with your body in a full squat and the arms fully extended overhead.",
+      "Keeping the bar aligned over the front of the heels, your head and chest up, drive throught heels of the feet to move to a standing position. Carefully return the weight to floor."
+    ]
+  },
+  {
+    "id": "Squat_with_Bands",
+    "name": "Squat with Bands",
+    "instructions": [
+      "Set up the bands on the sleeves, secured to either band pegs, the rack, or dumbbells so that there is appropriate tension.",
+      "Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wide for more emphasis on the back, glutes, adductors, and hamstrings. Keep your head facing forward.",
+      "With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips as much as possible. Ideally, your shins should be perpendicular to the ground. Lower bar position necessitates a greater torso lean to keep the bar over the heels. Continue until you break parallel, which is defined as the crease of the hip being in line with the top of the knee.",
+      "Keeping the weight on your heels and pushing your feet and knees out, drive upward as you lead the movement with your head. Continue upward, maintaining tightness head to toe, until you have returned to the starting position."
+    ]
+  },
+  {
+    "id": "Squat_with_Chains",
+    "name": "Squat with Chains",
+    "instructions": [
+      "To set up the chains, begin by looping the leader chain over the sleeves of the bar. The heavy chain should be attached using a snap hook. Adjust the length of the lead chain so that a few links are still on the floor at the top of the movement.",
+      "Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wide for more emphasis on the back, glutes, adductors, and hamstrings. Keep your head facing forward.",
+      "With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips as much as possible. Ideally, your shins should be perpendicular to the ground. Lower bar position necessitates a greater torso lean to keep the bar over the heels. Continue until you break parallel, which is defined as the crease of the hip being in line with the top of the knee.",
+      "Keeping the weight on your heels and pushing your feet and knees out, drive upward as you lead the movement with your head. Continue upward, maintaining tightness head to toe, until you have returned to the starting position."
+    ]
+  },
+  {
+    "id": "Squat_with_Plate_Movers",
+    "name": "Squat with Plate Movers",
+    "instructions": [
+      "To begin, first set the bar on a rack to just below shoulder level. Position a weight plate on the ground a couple feet back from the rack. Once the bar is loaded, step under it and place the back of your shoulders across it.",
+      "Hold on to the bar with both hands and lift it off the rack by first pushing with your legs and at the same time straighten your torso.",
+      "Step away from the rack and adopt a wide stance with the toes slightly pointed out, with one foot on the weight plate. Keep your head up at all times. This will be your starting position.",
+      "Begin to slowly lower the bar by bending the knees and hips. Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees.",
+      "Raise the bar as you exhale by pushing the floor with the heels of your feet as you extend the hips and knees.",
+      "At the top of the movement, side step, bringing your feet together on the opposite side of the plate.",
+      "Using your inside foot, push the weight plate, sliding it across the floor to where you were just standing.",
+      "Place your inside foot on the weight plate, adopting a wide stance for the next repetition."
+    ]
+  },
+  {
+    "id": "Squats_-_With_Bands",
+    "name": "Squats - With Bands",
+    "instructions": [
+      "To start out, make sure that the exercise band is at an even split between both the left and right side of the body. To do this, use your hands to grab both sides of the band and place both feet in the middle of the band. Your feet should be shoulder width apart from each other.",
+      "When holding the bands, they should be the same height on each side. You should be using a pronated grip (palms facing forward) and have the handles of the bands next to your face for this exercise. This is the starting position.",
+      "Slowly start to bend the knees and lower the legs so that your thighs are parallel to the floor while exhaling.",
+      "Use the heel of your feet to push your body up to the starting position as you exhale.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Stairmaster",
+    "name": "Stairmaster",
+    "instructions": [
+      "To begin, step onto the stairmaster and select the desired option from the menu. You can choose a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise.",
+      "Pump your legs up and down in an established rhythm, driving the pedals down but not all the way to the floor. It is recommended that you maintain your grip on the handles so that you don't fall. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity.",
+      "Stairmasters offer convenience, cardiovascular benefits, and usually have less impact than running outside. They are typically much harder than other cardio equipment. A 150 lb person will typically burn over 300 calories in 30 minutes, compared to about 175 calories walking."
+    ]
+  },
+  {
+    "id": "Standing_Alternating_Dumbbell_Press",
+    "name": "Standing Alternating Dumbbell Press",
+    "instructions": [
+      "Stand with a dumbbell in each hand. Raise the dumbbells to your shoulders with your palms facing forward and your elbows pointed out. This will be your starting position.",
+      "Extend one arm to press the dumbbell straight up, keeping your off hand in place. Do not lean or jerk the weight during the movement.",
+      "After a brief pause, return the weight to the starting position.",
+      "Repeat for the opposite side, continuing to alternate between arms."
+    ]
+  },
+  {
+    "id": "Standing_Barbell_Calf_Raise",
+    "name": "Standing Barbell Calf Raise",
+    "instructions": [
+      "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the bar on the back of your shoulders (slightly below the neck).",
+      "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+      "Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. The knees should be kept with a slight bend; never locked. This will be your starting position. Tip: For better range of motion you may also place the ball of your feet on a wooden block but be careful as this option requires more balance and a sturdy block.",
+      "Raise your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position by a second before you start to go back down.",
+      "Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Barbell_Press_Behind_Neck",
+    "name": "Standing Barbell Press Behind Neck",
+    "instructions": [
+      "This exercise is best performed inside a squat rack for easier pick up of the bar. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+      "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+      "Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Your back should be kept straight while performing this exercise. This will be your starting position.",
+      "Elevate the barbell overhead by fully extending your arms while breathing out.",
+      "Hold the contraction for a second and lower the barbell back down to the starting position by inhaling.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+    "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+    "instructions": [
+      "With a dumbbell in one hand and the palm facing your torso, bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up.",
+      "The upper arm should be close to the torso and parallel to the floor while the forearm is pointing towards the floor as the hand holds the weight. Tip: There should be a 90-degree angle between the forearm and the upper arm. This is your starting position.",
+      "Keeping the upper arms stationary, use the triceps to lift the weights as you exhale until the forearms are parallel to the floor and the whole arm is extended. Like many other arm exercises, only the forearm moves.",
+      "After a second contraction at the top, slowly lower the dumbbell back to the starting position as you inhale.",
+      "Repeat the movement for the prescribed amount of repetitions.",
+      "Switch arms and repeat the exercise."
+    ]
+  },
+  {
+    "id": "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+    "name": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
+    "instructions": [
+      "With a dumbbell in each hand and the palms facing your torso, bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up. The upper arms should be close to the torso and parallel to the floor while the forearms are pointing towards the floor as the hands hold the weights. Tip: There should be a 90-degree angle between the forearms and the upper arm. This is your starting position.",
+      "Keeping the upper arms stationary, use the triceps to lift the weights as you exhale until the forearms are parallel to the floor and the whole arms are extended. Like many other arm exercises, only the forearm moves.",
+      "After a second contraction at the top, slowly lower the dumbbells back to their starting position as you inhale.",
+      "Repeat the movement for the prescribed amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Biceps_Cable_Curl",
+    "name": "Standing Biceps Cable Curl",
+    "instructions": [
+      "Stand up with your torso upright while holding a cable curl bar that is attached to a low pulley. Grab the cable bar at shoulder width and keep the elbows close to the torso. The palm of your hands should be facing up (supinated grip). This will be your starting position.",
+      "While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second as you squeeze the muscle.",
+      "Slowly begin to bring the curl bar back to starting position as your breathe in.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Biceps_Stretch",
+    "name": "Standing Biceps Stretch",
+    "instructions": [
+      "Clasp your hands behind your back with your palms together, straighten arms and then rotate them so your palms face downward.",
+      "Raise your arms up and hold until you feel a stretch in your biceps."
+    ]
+  },
+  {
+    "id": "Standing_Bradford_Press",
+    "name": "Standing Bradford Press",
+    "instructions": [
+      "Place a loaded bar at shoulder level in a rack. With a pronated grip at shoulder width, begin with the bar racked across the front of your shoulders. This is your starting position.",
+      "Initiate the lift by extending the elbows to press the bar overhead. Avoid locking out the elbow as you move the weight behind your head.",
+      "Lower the bar down to the back of the head until your elbow forms a right angle.",
+      "Lift the bar back over your head by extending the elbows",
+      "Lower the bar down to the starting position.",
+      "Alternate in this manner until you complete the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Cable_Chest_Press",
+    "name": "Standing Cable Chest Press",
+    "instructions": [
+      "Position dual pulleys to chest height and select an appropriate weight. Stand a foot or two in front of the cables, holding one in each hand. You can stagger your stance for better stability.",
+      "Position the upper arm at a 90 degree angle with the shoulder blades together. This will be your starting position.",
+      "Keeping the rest of the body stationary, extend through the elbows to press the handles forward, drawing them together in front of you.",
+      "Pause at the top of the motion, and return to the starting position."
+    ]
+  },
+  {
+    "id": "Standing_Cable_Lift",
+    "name": "Standing Cable Lift",
+    "instructions": [
+      "Connect a standard handle on a tower, and move the cable to the lowest pulley position.",
+      "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable. Your outstretched arm should be aligned with the cable.",
+      "With your feet positioned shoulder width apart, squat down and grab the handle with both hands. Your arms should still be fully extended.",
+      "In one motion, pull the handle up and across your body until your arms are in a fully-extended position above your head.",
+      "Keep your back straight and your arms close to your body as you pivot your back foot and straighten your legs to get a full range of motion.",
+      "Retract your arms and then your body. Return to the neutral position in a slow and controlled manner.",
+      "Repeat to failure.",
+      "Then, reposition and repeat the same series of movements on the opposite side."
+    ]
+  },
+  {
+    "id": "Standing_Cable_Wood_Chop",
+    "name": "Standing Cable Wood Chop",
+    "instructions": [
+      "Connect a standard handle to a tower, and move the cable to the highest pulley position.",
+      "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable. Your outstretched arm should be aligned with the cable.",
+      "With your feet positioned shoulder width apart, reach upward with your other hand and grab the handle with both hands. Your arms should still be fully extended.",
+      "In one motion, pull the handle down and across your body to your front knee while rotating your torso.",
+      "Keep your back and arms straight and core tight while you pivot your back foot and bend your knees to get a full range of motion.",
+      "Maintain your stance and straight arms. Return to the neutral position in a slow and controlled manner.",
+      "Repeat to failure.",
+      "Then, reposition and repeat the same series of movements on the opposite side."
+    ]
+  },
+  {
+    "id": "Standing_Calf_Raises",
+    "name": "Standing Calf Raises",
+    "instructions": [
+      "Adjust the padded lever of the calf raise machine to fit your height.",
+      "Place your shoulders under the pads provided and position your toes facing forward (or using any of the two other positions described at the beginning of the chapter). The balls of your feet should be secured on top of the calf block with the heels extending off it. Push the lever up by extending your hips and knees until your torso is standing erect. The knees should be kept with a slight bend; never locked. Toes should be facing forward, outwards or inwards as described at the beginning of the chapter. This will be your starting position.",
+      "Raise your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position by a second before you start to go back down.",
+      "Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Concentration_Curl",
+    "name": "Standing Concentration Curl",
+    "instructions": [
+      "Taking a dumbbell in your working hand, lean forward. Allow your working arm to hang perpendicular to the ground with the elbow pointing out. This will be your starting position.",
+      "Flex the elbow to curl the weight, keeping the upper arm stationary. At the top of the repetition, flex the biceps and pause.",
+      "Lower the dumbbell back to the starting position.",
+      "Repeat the movement for the prescribed amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Dumbbell_Calf_Raise",
+    "name": "Standing Dumbbell Calf Raise",
+    "instructions": [
+      "Stand with your torso upright holding two dumbbells in your hands by your sides. Place the ball of the foot on a sturdy and stable wooden board (that is around 2-3 inches tall) while your heels extend off and touch the floor. This will be your starting position.",
+      "With the toes pointing either straight (to hit all parts equally), inwards (for emphasis on the outer head) or outwards (for emphasis on the inner head), raise the heels off the floor as you exhale by contracting the calves. Hold the top contraction for a second.",
+      "As you inhale, go back to the starting position by slowly lowering the heels.",
+      "Repeat for the recommended amount of times."
+    ]
+  },
+  {
+    "id": "Standing_Dumbbell_Press",
+    "name": "Standing Dumbbell Press",
+    "instructions": [
+      "Standing with your feet shoulder width apart, take a dumbbell in each hand. Raise the dumbbells to head height, the elbows out and about 90 degrees. This will be your starting position.",
+      "Maintaining strict technique with no leg drive or leaning back, extend through the elbow to raise the weights together directly above your head.",
+      "Pause, and slowly return the weight to the starting position."
+    ]
+  },
+  {
+    "id": "Standing_Dumbbell_Reverse_Curl",
+    "name": "Standing Dumbbell Reverse Curl",
+    "instructions": [
+      "To begin, stand straight with a dumbbell in each hand using a pronated grip (palms facing down). Your arms should be fully extended while your feet are shoulder width apart from each other. This is the starting position.",
+      "While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the muscle.",
+      "Slowly begin to bring the dumbbells back to starting position as your breathe in.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head",
+    "name": "Standing Dumbbell Straight-Arm Front Delt Raise Above Head",
+    "instructions": [
+      "Hold the dumbbells in front of your thighs, palms facing your thighs.",
+      "Keep your arms straight with a slight bend at the elbows but keep them locked. This will be your starting position.",
+      "Raise the dumbbells in a semicircular motion to arm's length overhead as you exhale.",
+      "Slowly return to the starting position using the same path as you inhale.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Dumbbell_Triceps_Extension",
+    "name": "Standing Dumbbell Triceps Extension",
+    "instructions": [
+      "To begin, stand up with a dumbbell held by both hands. Your feet should be about shoulder width apart from each other. Slowly use both hands to grab the dumbbell and lift it over your head until both arms are fully extended.",
+      "The resistance should be resting in the palms of your hands with your thumbs around it. The palm of the hands should be facing up towards the ceiling. This will be your starting position.",
+      "Keeping your upper arms close to your head with elbows in and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
+      "Go back to the starting position by using the triceps to raise the dumbbell. Breathe out as you perform this step.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Dumbbell_Upright_Row",
+    "name": "Standing Dumbbell Upright Row",
+    "instructions": [
+      "Grasp a dumbbell in each hand with a pronated (palms forward) grip that is slightly less than shoulder width. The dumbbells should be resting on top of your thighs. Your arms should be extended with a slight bend at the elbows and your back should be straight. This will be your starting position.",
+      "Use your side shoulders to lift the dumbbells as you exhale. The dumbbells should be close to the body as you move it up and the elbows should drive the motion. Continue to lift them until they nearly touch your chin. Tip: Your elbows should drive the motion. As you lift the dumbbells, your elbows should always be higher than your forearms. Also, keep your torso stationary and pause for a second at the top of the movement.",
+      "Lower the dumbbells back down slowly to the starting position. Inhale as you perform this portion of the movement.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Elevated_Quad_Stretch",
+    "name": "Standing Elevated Quad Stretch",
+    "instructions": [
+      "Start by standing with your back about two to three feet away from a bench or step.",
+      "Lift one leg behind you and rest your foot on the step,either on your instep or the ball of your foot, whichever you find most comfortable.",
+      "Keep your supporting knee slightly bent and avoid letting that knee extend out beyond your toes. Switch sides."
+    ]
+  },
+  {
+    "id": "Standing_Front_Barbell_Raise_Over_Head",
+    "name": "Standing Front Barbell Raise Over Head",
+    "instructions": [
+      "To begin, stand straight with a barbell in your hands. You should grip the bar with palms facing down and a closer than shoulder width grip apart from each other.",
+      "Your feet should be shoulder width apart from each other. Your elbows should be slightly bent. This is the starting position.",
+      "Lift the barbell up until it is directly over your head while exhaling. Make sure to keep your elbows slightly bent when performing each repetition.",
+      "Once you feel the contraction, begin to lower the barbell back down to the starting position as you inhale.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Gastrocnemius_Calf_Stretch",
+    "name": "Standing Gastrocnemius Calf Stretch",
+    "instructions": [
+      "Place your right heel on a step with your knee extended and lean forward to grab your right toe with your right hand. Your left knee should be slightly bent and your back should be straight.",
+      "Support your weight on your left leg and place your left hand on your left thigh.",
+      "Pull your right toes toward your knee until you feel a stretch in your calf."
+    ]
+  },
+  {
+    "id": "Standing_Hamstring_and_Calf_Stretch",
+    "name": "Standing Hamstring and Calf Stretch",
+    "instructions": [
+      "Being by looping a belt, band, or rope around one foot. While standing, place that foot forward.",
+      "Bend your back leg, while keeping the front one straight. Now raise the toes of your front foot off of the ground and lean forward.",
+      "Using the belt, pull on the top of the foot to increase the stretch in the calf. Hold for 10-20 seconds and repeat with the other foot."
+    ]
+  },
+  {
+    "id": "Standing_Hip_Circles",
+    "name": "Standing Hip Circles",
+    "instructions": [
+      "Begin standing on one leg, holding to a vertical support.",
+      "Raise the unsupported knee to 90 degrees. This will be your starting position.",
+      "Open the hip as far as possible, attempting to make a big circle with your knee.",
+      "Perform this movement slowly for a number of repetitions, and repeat on the other side."
+    ]
+  },
+  {
+    "id": "Standing_Hip_Flexors",
+    "name": "Standing Hip Flexors",
+    "instructions": [
+      "Stand up straight with the spine vertical, the left foot slightly in front of the right.",
+      "Bend both knees and lift the back heel off the floor as you press the right hip forward. You can't get a thorough, deep stretch in this position, however, because it's hard to relax the hip flexor and stand on it at the same time. Switch sides."
+    ]
+  },
+  {
+    "id": "Standing_Inner-Biceps_Curl",
+    "name": "Standing Inner-Biceps Curl",
+    "instructions": [
+      "Stand up with a dumbbell in each hand being held at arms length. The elbows should be close to the torso. Your legs should be at about shoulder's width apart from each other.",
+      "Rotate the palms of the hands so that they are facing inward in a neutral position. This will be your starting position.",
+      "While holding the upper arms stationary, curl the weights out while contracting the biceps as you breathe out. Your wrist should turn so that when the weights are fully elevated you have supinated grip (palms facing up).",
+      "Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Tip: Keep the forearms aligned with your outer deltoids.",
+      "Hold the contracted position for a second as you squeeze the biceps.",
+      "Slowly begin to bring the dumbbells back to the starting position as your breathe in. Remember to rotate the wrists as you lower the weight in order to switch back to a neutral grip.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Lateral_Stretch",
+    "name": "Standing Lateral Stretch",
+    "instructions": [
+      "Take a slightly wider than hip distance stance with your knees slightly bent.",
+      "Place your right hand on your right hip to support the spine.",
+      "Raise your left arm in a vertical line and place your left hand behind your head. Keep it there as you incline your torso to the right.",
+      "Keep your weight evenly distributed between both legs (don't lean into your left hip). Switch sides."
+    ]
+  },
+  {
+    "id": "Standing_Leg_Curl",
+    "name": "Standing Leg Curl",
+    "instructions": [
+      "Adjust the machine lever to fit your height and lie with your torso bent at the waist facing forward around 30-45 degrees (since an angled position is more favorable for hamstrings recruitment) with the pad of the lever on the back of your right leg (just a few inches under the calves) and the front of the right leg on top of the machine pad.",
+      "Keeping the torso bent forward, ensure your leg is fully stretched and grab the side handles of the machine. Position your toes straight. This will be your starting position.",
+      "As you exhale, curl your right leg up as far as possible without lifting the upper leg from the pad. Once you hit the fully contracted position, hold it for a second.",
+      "As you inhale, bring the legs back to the initial position. Repeat for the recommended amount of repetitions.",
+      "Perform the same exercise now for the left leg."
+    ]
+  },
+  {
+    "id": "Standing_Long_Jump",
+    "name": "Standing Long Jump",
+    "instructions": [
+      "This drill is best done in sand or other soft landing surface. Ensure that you are able to measure distance. Stand in a partial squat stance with feet shoulder width apart.",
+      "Utilizing a big arm swing and a countermovement of the legs, jump forward as far as you can.",
+      "Attempt to land with your feet out in front you, reaching as far as possible with your legs.",
+      "Measure the distance from your landing point to the starting point and track results."
+    ]
+  },
+  {
+    "id": "Standing_Low-Pulley_Deltoid_Raise",
+    "name": "Standing Low-Pulley Deltoid Raise",
+    "instructions": [
+      "Start by standing to the right side of a low pulley row. Use your left hand to come across the body and grab a single handle attached to the low pulley with a pronated grip (palms facing down). Rest your arm in front of you. Your right hand should grab the machine for better support and balance.",
+      "Make sure that your back is erect and your feet are shoulder width apart from each other. This is the starting position.",
+      "Begin to use the left hand and come across your body out until it is elevated to shoulder height while exhaling.",
+      "Feel the contraction at the top for a second and begin to slowly lower the handle back down to the original starting position while inhaling.",
+      "Repeat for the recommended amount of repetitions.",
+      "Switch arms and repeat the exercise."
+    ]
+  },
+  {
+    "id": "Standing_Low-Pulley_One-Arm_Triceps_Extension",
+    "name": "Standing Low-Pulley One-Arm Triceps Extension",
+    "instructions": [
+      "Grab a single handle with your left arm next to the low pulley machine. Turn away from the machine keeping the handle to the side of your body with your arm fully extended. Now use both hands to elevate the single handle directly above the head with the palm facing forward. Keep your upper arm completely vertical (perpendicular to the floor) and put your right hand on your left elbow to help keep it steady. This is the starting position.",
+      "Keeping your upper arms close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
+      "Go back to the starting position by using the triceps to raise the single handle. Breathe out as you perform this step.",
+      "Repeat for the recommended amount of repetitions.",
+      "Switch arms and repeat the exercise."
+    ]
+  },
+  {
+    "id": "Standing_Military_Press",
+    "name": "Standing Military Press",
+    "instructions": [
+      "Start by placing a barbell that is about chest high on a squat rack. Once you have selected the weights, grab the barbell using a pronated (palms facing forward) grip. Make sure to grip the bar wider than shoulder width apart from each other.",
+      "Slightly bend the knees and place the barbell on your collar bone. Lift the barbell up keeping it lying on your chest. Take a step back and position your feet shoulder width apart from each other.",
+      "Once you pick up the barbell with the correct grip length, lift the bar up over your head by locking your arms. Hold at about shoulder level and slightly in front of your head. This is your starting position.",
+      "Lower the bar down to the collarbone slowly as you inhale.",
+      "Lift the bar back up to the starting position as you exhale.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Olympic_Plate_Hand_Squeeze",
+    "name": "Standing Olympic Plate Hand Squeeze",
+    "instructions": [
+      "To begin, stand straight while holding a weight plate by the ridge at arm's length in each hand using a neutral grip (palms facing in). You feet should be shoulder width apart from each other. This will be your starting position.",
+      "Lower the plates until the fingers are nearly extended but can still hold weights. Inhale as you lower the plates.",
+      "Now raise the plates back to the starting position as you exhale by closing your hands.",
+      "Repeat for the recommended amount of repetitions prescribed in your program."
+    ]
+  },
+  {
+    "id": "Standing_One-Arm_Cable_Curl",
+    "name": "Standing One-Arm Cable Curl",
+    "instructions": [
+      "Start out by grabbing single handle next to the low pulley machine. Make sure you are far enough from the machine so that your arm is supporting the weight.",
+      "Make sure that your upper arm is stationary, perpendicular to the floor with elbows in and palms facing forward. Your non lifting arm should be grabbing your waist. This will allow you to keep your balance.",
+      "Slowly begin to curl the single handle upwards while keeping the upper arm stationary until your forearm touches your bicep while exhaling. Tip: Only the forearm should move.",
+      "Hold the contraction position as you squeeze the bicep and then lower the single handle back down to the starting position as you inhale.",
+      "Repeat for the recommended amount of repetitions.",
+      "Switch arms while performing this exercise."
+    ]
+  },
+  {
+    "id": "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench",
+    "name": "Standing One-Arm Dumbbell Curl Over Incline Bench",
+    "instructions": [
+      "Stand on the back side of an incline bench as if you were going to be a spotter for someone. Have a dumbbell in one hand and rest it across the incline bench with a supinated (palms up) grip.",
+      "Position your non lifting hand at the corner or side of the incline bench. The chest should be pressed against the top part of the incline and your feet should be pressed against the floor at a wide stance. This is the starting position.",
+      "While holding the upper arm stationary, curl the dumbbell upward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a second.",
+      "Slowly begin to bring the dumbbells back to starting position as your breathe in.",
+      "Repeat for the recommended amount of repetitions.",
+      "Switch arms while performing this exercise."
+    ]
+  },
+  {
+    "id": "Standing_One-Arm_Dumbbell_Triceps_Extension",
+    "name": "Standing One-Arm Dumbbell Triceps Extension",
+    "instructions": [
+      "To begin, stand up with a dumbbell held in one hand. Your feet should be about shoulder width apart from each other. Now fully extend the arm with the dumbbell over your head. Tip: The small finger of your hand should be facing the ceiling and the palm of your hand should be facing forward. The dumbbell should be above your head.",
+      "This will be your starting position.",
+      "Keeping your upper arm close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearm touch your bicep. Tip: The upper arm should remain stationary and only the forearm should move. Breathe in as you perform this step.",
+      "Go back to the starting position by using the triceps to raise the dumbbell. Breathe out as you perform this step.",
+      "Repeat for the recommended amount of repetitions.",
+      "Switch arms and repeat the exercise."
+    ]
+  },
+  {
+    "id": "Standing_Overhead_Barbell_Triceps_Extension",
+    "name": "Standing Overhead Barbell Triceps Extension",
+    "instructions": [
+      "To begin, stand up holding a barbell or e-z bar using a pronated grip (palms facing forward) with your hands closer than shoulder width apart from each other. Your feet should be about shoulder width apart.",
+      "Now elevate the barbell above your head until your arms are fully extended. Keep your elbows in. This will be your starting position.",
+      "Keeping your upper arms close to your head and elbows in, perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
+      "Go back to the starting position by using the triceps to raise the barbell. Breathe out as you perform this step.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Palm-In_One-Arm_Dumbbell_Press",
+    "name": "Standing Palm-In One-Arm Dumbbell Press",
+    "instructions": [
+      "Start by having a dumbbell in one hand with your arm fully extended to the side using a neutral grip. Use your other arm to hold on to an incline bench to keep your balance.",
+      "Your feet should be shoulder width apart from each other. Now slowly lift the dumbbell up until you create a 90 degree angle with your arm. Note: Your forearm should be perpendicular to the floor. Continue to maintain a neutral grip throughout the entire exercise.",
+      "Slowly lift the dumbbell up until your arm is fully extended. This the starting position.",
+      "While inhaling lower the weight down until your arm is at a 90 degree angle again.",
+      "Feel the contraction for a second and then lift the weight back up towards the starting position while exhaling. Remember to hold on to the incline bench and keep your feet positioned to keep balance during the exercise.",
+      "Repeat for the recommended amount of repetitions.",
+      "Switch arms and repeat the exercise."
+    ]
+  },
+  {
+    "id": "Standing_Palms-In_Dumbbell_Press",
+    "name": "Standing Palms-In Dumbbell Press",
+    "instructions": [
+      "Start by having a dumbbell in each hand with your arm fully extended to the side using a neutral grip. Your feet should be shoulder width apart from each other. Now slowly lift the dumbbells up until you create a 90 degree angle with your arms. Note: Your forearms should be perpendicular to the floor. This the starting position.",
+      "Continue to maintain a neutral grip throughout the entire exercise. Slowly lift the dumbbells up until your arms are fully extended.",
+      "While inhaling lower the weights down until your arm is at a 90 degree angle again.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl",
+    "name": "Standing Palms-Up Barbell Behind The Back Wrist Curl",
+    "instructions": [
+      "Start by standing straight and holding a barbell behind your glutes at arm's length while using a pronated grip (palms will be facing back away from the glutes) and having your hands shoulder width apart from each other.",
+      "You should be looking straight forward while your feet are shoulder width apart from each other. This is the starting position.",
+      "While exhaling, slowly elevate the barbell up by curling your wrist in a semi-circular motion towards the ceiling. Note: Your wrist should be the only body part moving for this exercise.",
+      "Hold the contraction for a second and lower the barbell back down to the starting position while inhaling.",
+      "Repeat for the recommended amount of repetitions.",
+      "When finished, lower the barbell down to the squat rack or the floor by bending the knees. Tip: It is easiest to either pick it up from a squat rack or have a partner hand it to you."
+    ]
+  },
+  {
+    "id": "Standing_Pelvic_Tilt",
+    "name": "Standing Pelvic Tilt",
+    "instructions": [
+      "Start off with your feet hip-distance apart.",
+      "Bend your knees slightly to keep them soft and springy.",
+      "You may want to move your pelvis forward and backward and back few times before holding the tailbone forward in this stretch."
+    ]
+  },
+  {
+    "id": "Standing_Rope_Crunch",
+    "name": "Standing Rope Crunch",
+    "instructions": [
+      "Attach a rope to a high pulley and select an appropriate weight.",
+      "Stand with your back to the cable tower. Take the rope with both hands over your shoulders, holding it to your upper chest. This will be your starting position.",
+      "Perform the movement by flexing the spine, crunching the weight down as far as you can.",
+      "Hold the peak contraction for a moment before returning to the starting position."
+    ]
+  },
+  {
+    "id": "Standing_Soleus_And_Achilles_Stretch",
+    "name": "Standing Soleus And Achilles Stretch",
+    "instructions": [
+      "Stand with your feet hip-distance apart, one foot slightly in front of the other.",
+      "Bend both knees, keeping your back heel on the floor. Switch sides."
+    ]
+  },
+  {
+    "id": "Standing_Toe_Touches",
+    "name": "Standing Toe Touches",
+    "instructions": [
+      "Stand with some space in front and behind you.",
+      "Bend at the waist, keeping your legs straight, until you can relax and let your upper body hang down in front of you. Let your arms and hands hang down naturally. Hold for 10 to 20 seconds."
+    ]
+  },
+  {
+    "id": "Standing_Towel_Triceps_Extension",
+    "name": "Standing Towel Triceps Extension",
+    "instructions": [
+      "To begin, stand up with both arms fully extended above the head holding one end of a towel with both hands. Your elbows should be in and the arms perpendicular to the floor with the palms facing each other while your feet should be shoulder width apart from each other. This is the starting position.",
+      "Now communicate with your partner so that he/she can grip the other side of the towel to apply resistance. Keeping your upper arms close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
+      "Go back to the starting position by using the triceps to raise the towel. Breathe out as you perform this step.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Standing_Two-Arm_Overhead_Throw",
+    "name": "Standing Two-Arm Overhead Throw",
+    "instructions": [
+      "Stand with your feet shoulder width apart holding a medicine ball in both hands. To begin, reach the medicine ball deep behind your head as you bend the knees slightly and lean back.",
+      "Violently throw the ball forward, flexing at the hip and using your whole body to complete the movement.",
+      "The medicine ball can be thrown to a partner or to a wall, receiving it as it bounces back."
+    ]
+  },
+  {
+    "id": "Star_Jump",
+    "name": "Star Jump",
+    "instructions": [
+      "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
+      "To initiate the move, squat down halfway and explode back up as high as possible. Fully extend your entire body, spreading your legs and arms away from the body.",
+      "As you land, bring your limbs back in and absorb your impact through the legs."
+    ]
+  },
+  {
+    "id": "Step-up_with_Knee_Raise",
+    "name": "Step-up with Knee Raise",
+    "instructions": [
+      "Stand facing a box or bench of an appropriate height with your feet together. This will be your starting position.",
+      "Begin the movement by stepping up, putting your left foot on the top of the bench. Extend through the hip and knee of your front leg to stand up on the box. As you stand on the box with your left leg, flex your right knee and hip, bringing your knee as high as you can.",
+      "Reverse this motion to step down off the box, and then repeat the sequence on the opposite leg."
+    ]
+  },
+  {
+    "id": "Step_Mill",
+    "name": "Step Mill",
+    "instructions": [
+      "To begin, step onto the stepmill and select the desired option from the menu. You can choose a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Use caution so that you don't trip as you climb the stairs. It is recommended that you maintain your grip on the handles so that you don't fall.",
+      "Stepmills offer convenience, cardiovascular benefits, and usually have less impact than running outside while offering a similar rate of calories burned. They are typically much harder than other cardio equipment. A 150 lb person will typically burn over 300 calories in 30 minutes, compared to about 175 calories walking."
+    ]
+  },
+  {
+    "id": "Stiff-Legged_Barbell_Deadlift",
+    "name": "Stiff-Legged Barbell Deadlift",
+    "instructions": [
+      "Grasp a bar using an overhand grip (palms facing down). You may need some wrist wraps if using a significant amount of weight.",
+      "Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",
+      "Keeping the knees stationary, lower the barbell to over the top of your feet by bending at the hips while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Inhale as you perform this movement.",
+      "Start bringing your torso up straight again by extending your hips until you are back at the starting position. Exhale as you perform this movement.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Stiff-Legged_Dumbbell_Deadlift",
+    "name": "Stiff-Legged Dumbbell Deadlift",
+    "instructions": [
+      "Grasp a couple of dumbbells holding them by your side at arm's length.",
+      "Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",
+      "Keeping the knees stationary, lower the dumbbells to over the top of your feet by bending at the waist while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Exhale as you perform this movement",
+      "Start bringing your torso up straight again by extending your hips and waist until you are back at the starting position. Inhale as you perform this movement.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Stiff_Leg_Barbell_Good_Morning",
+    "name": "Stiff Leg Barbell Good Morning",
+    "instructions": [
+      "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+      "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+      "Step away from the rack and position your legs using a shoulder width medium stance. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. This will be your starting position.",
+      "Keeping your legs stationary, move your torso forward by bending at the hips while inhaling. Lower your torso until it is parallel with the floor.",
+      "Begin to raise the bar as you exhale by elevating your torso back to the starting position.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Stomach_Vacuum",
+    "name": "Stomach Vacuum",
+    "instructions": [
+      "To begin, stand straight with your feet shoulder width apart from each other. Place your hands on your hips. This is the starting position.",
+      "Now slowly inhale as much air as possible and then start to exhale as much as possible while bringing your stomach in as much as possible and hold this position. Try to visualize your navel touching your backbone.",
+      "One isometric contraction is around 20 seconds. During the 20 second hold, try to breathe normally. Then inhale and bring your stomach back to the starting position.",
+      "Once you have practiced this exercise, try to perform this exercise for longer than 20 seconds. Tip: You can work your way up to 40-60 seconds.",
+      "Repeat for the recommended amount of sets."
+    ]
+  },
+  {
+    "id": "Straight-Arm_Dumbbell_Pullover",
+    "name": "Straight-Arm Dumbbell Pullover",
+    "instructions": [
+      "Place a dumbbell standing up on a flat bench.",
+      "Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench (torso across it as in forming a cross) with only your shoulders lying on the surface. Hips should be below the bench and legs bent with feet firmly on the floor. The head will be off the bench as well.",
+      "Grasp the dumbbell with both hands and hold it straight over your chest at arms length. Both palms should be pressing against the underside one of the sides of the dumbbell. This will be your starting position.\nCaution: Always ensure that the dumbbell used for this exercise is secure. Using a dumbbell with loose plates can result in the dumbbell falling apart and falling on your face.",
+      "While keeping your arms straight, lower the weight slowly in an arc behind your head while breathing in until you feel a stretch on the chest.",
+      "At that point, bring the dumbbell back to the starting position using the arc through which the weight was lowered and exhale as you perform this movement.",
+      "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions."
+    ]
+  },
+  {
+    "id": "Straight-Arm_Pulldown",
+    "name": "Straight-Arm Pulldown",
+    "instructions": [
+      "You will start by grabbing the wide bar from the top pulley of a pulldown machine and using a wider than shoulder-width pronated (palms down) grip. Step backwards two feet or so.",
+      "Bend your torso forward at the waist by around 30-degrees with your arms fully extended in front of you and a slight bend at the elbows. If your arms are not fully extended then you need to step a bit more backwards until they are. Once your arms are fully extended and your torso is slightly bent at the waist, tighten the lats and then you are ready to begin.",
+      "While keeping the arms straight, pull the bar down by contracting the lats until your hands are next to the side of the thighs. Breathe out as you perform this step.",
+      "While keeping the arms straight, go back to the starting position while breathing in.",
+      "Repeat for the recommended amount of repetitions."
+    ]
+  },
+  {
+    "id": "Straight_Bar_Bench_Mid_Rows",
+    "name": "Straight Bar Bench Mid Rows",
+    "instructions": [
+      "Place a loaded barbell on the end of a bench. Standing on the bench behind the bar, take a medium, pronated grip. Stand with your hips back and chest up, maintaining a neutral spine. This will be your starting position.",
+      "Row the bar to your torso by retracting the shoulder blades and flexing the elbows. Use a controlled movement with no jerking.",
+      "After a brief pause, slowly return the bar to the starting position, ensuring to go all the way down."
+    ]
+  },
+  {
+    "id": "Straight_Raises_on_Incline_Bench",
+    "name": "Straight Raises on Incline Bench",
+    "instructions": [
+      "Place a bar on the ground behind the head of an incline bench.",
+      "Lay on the bench face down. With a pronated grip, pick the barbell up from the floor, keeping your arms straight. Allow the bar to hang straight down. This will be your starting position.",
+      "To begin, raise the barbell out in front of your head while keeping your arms extended.",
+      "Return to the starting position."
+    ]
+  },
+  {
+    "id": "Stride_Jump_Crossover",
+    "name": "Stride Jump Crossover",
+    "instructions": [
+      "Stand to the side of a box with your inside foot on top of it, close to the edge.",
+      "Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.",
+      "Land in the opposite position that you started, on the opposite side of the box. The foot that was initially on the box will now be on the ground, with the opposite foot now on the box.",
+      "Repeat the movement, crossing back over to the other side."
+    ]
+  },
+  {
+    "id": "Sumo_Deadlift",
+    "name": "Sumo Deadlift",
+    "instructions": [
+      "Begin with a bar loaded on the ground. Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip. Relax the shoulders, which in effect lengthens your arms.",
+      "Take a breath, and then lower your hips, looking forward with your head with your chest up. Drive through the floor, spreading your feet apart, with your weight on the back half of your feet. Extend through the hips and knees.",
+      "As the bar passes through the knees, lean back and drive the hips into the bar, pulling your shoulder blades together.",
+      "Return the weight to the ground by bending at the hips and controlling the weight on the way down."
+    ]
+  },
+  {
+    "id": "Sumo_Deadlift_with_Bands",
+    "name": "Sumo Deadlift with Bands",
+    "instructions": [
+      "To deadlift with short bands, simply loop them over the bar before you start, and step into them to set up. Ensure that they under the back half of your foot, directly where you are driving into the floor.",
+      "Begin with a bar loaded on the ground. Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip.",
+      "Take a breath, and then lower your hips, looking forward with your head with your chest up. Drive through the floor, spreading your feet apart, with your weight on the back half of your feet. Extend through the hips and knees.",
+      "As the bar passes through the knees, lean back and drive the hips into the bar, pulling your shoulder blades together.",
+      "Return the weight to the ground by bending at the hips and controlling the weight on the way down."
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "gym-alt-app — 헬스장 대체 운동",
+  "short_name": "gym-alt-app",
+  "description": "헬스장에서 사용하려던 기구가 점유되었거나 없을 때, 30초 안에 대체 운동을 찾는 모바일 웹앱.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#171717",
+  "orientation": "portrait",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

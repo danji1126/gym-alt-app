@@ -1,0 +1,27 @@
+[
+  {
+    "id": "default-full",
+    "name": "기본 풀 헬스장",
+    "availableEquipment": [
+      "barbell",
+      "dumbbell",
+      "e-z curl bar",
+      "kettlebells",
+      "cable",
+      "smith-machine",
+      "leg-press-machine",
+      "lat-pulldown-machine",
+      "chest-press-machine",
+      "leg-extension-machine",
+      "leg-curl-machine",
+      "pec-deck-machine",
+      "hack-squat-machine",
+      "generic-machine",
+      "bands",
+      "exercise ball",
+      "medicine ball",
+      "foam roll",
+      "body only"
+    ]
+  }
+]
