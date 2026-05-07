@@ -1,0 +1,21 @@
+// Cloudflare Workers Static Assets 배포 설정.
+// Next.js `output: "export"` 산출물(`out/`)을 그대로 정적 자산으로 업로드.
+// OpenNext 어댑터 미사용 — SSR 0, Worker 코드 0, 순수 정적 사이트.
+//
+// _headers 파일(public/_headers → out/_headers)은 자동 적용 — CSP·HSTS 등 보존.
+// 404.html은 not_found_handling: "404-page"로 라우팅.
+//
+// 빌드 환경(Cloudflare Build)에서 자동 감지가 OpenNext를 강제 주입하지 않도록
+// 본 파일을 repo 루트에 commit. wrangler가 이 파일을 인식하면 OpenNext migrate를 건너뜀.
+//
+// Ref: https://developers.cloudflare.com/workers/static-assets/
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "gym-alt-app",
+  "compatibility_date": "2026-05-07",
+  "assets": {
+    "directory": "./out",
+    "not_found_handling": "404-page",
+    "html_handling": "force-trailing-slash"
+  }
+}
