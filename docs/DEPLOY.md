@@ -2,7 +2,7 @@
 
 본 프로젝트는 정적 사이트(`output: 'export'`)이므로 Cloudflare Pages 무료 플랜으로 배포 가능합니다.
 
-> **현재 상태 (2026-04-30)**: GitHub repo 미초기화. 본 가이드는 사용자가 직접 수행하는 절차입니다.
+> **현재 상태 (2026-05-07)**: GitHub repo 초기화 완료 — `https://github.com/danji1126/gym-alt-app` (private). 남은 단계는 Cloudflare Pages 연결뿐.
 
 ## 외부 의존성 (배포 후 가용성 영향)
 
@@ -22,36 +22,36 @@
 ## 사전 준비
 
 - [x] 로컬에서 `npm run build` 성공 확인 (`out/` 생성)
-- [ ] GitHub 계정
+- [x] GitHub 계정 (`danji1126`)
+- [x] GitHub repo 생성 + push 완료 (`gym-alt-app`, private)
 - [ ] Cloudflare 계정 (무료)
 
 ---
 
-## 1. GitHub repo 생성
+## 1. GitHub repo 생성 ✅ 완료
+
+`https://github.com/danji1126/gym-alt-app` (private) — `gh repo create … --private --push`로 자동 생성·push.
+
+이후 추가 변경 시:
 
 ```bash
-# 프로젝트 루트에서
 cd /Users/jiinbae/dev/myProject/gym-alt-app
-
-git init -b main
-git add .
-git commit -m "init: M1-M2 foundation"
-
-# GitHub에서 빈 repo 생성 (예: gym-alt-app)
-git remote add origin https://github.com/<USERNAME>/gym-alt-app.git
-git push -u origin main
+git add <변경파일>
+git commit -m "feat: <설명>"
+git push  # → main 푸시 → Cloudflare Pages 자동 재배포
 ```
 
 > `public/data/exercises-ko.json`은 `.gitignore`에 포함되어 있습니다 — Cloudflare Pages 빌드 시 `npm run build`가 `npm run preprocess`를 자동 실행하여 재생성합니다.
 
 ---
 
-## 2. Cloudflare Pages 연결
+## 2. Cloudflare Pages 연결 (👉 다음 단계)
 
-1. https://dash.cloudflare.com/ 로그인
+1. https://dash.cloudflare.com/ 로그인 (없으면 무료 가입)
 2. 좌측 메뉴 **Workers & Pages** → **Create application** → **Pages** 탭
 3. **Connect to Git** 선택
-4. GitHub 인증 → `gym-alt-app` repo 선택 → **Begin setup**
+4. GitHub 인증 → **Configure GitHub App** → `danji1126/gym-alt-app` 권한 부여 (private repo이므로 명시적 권한 필요)
+5. repo `gym-alt-app` 선택 → **Begin setup**
 
 ### Build settings
 
