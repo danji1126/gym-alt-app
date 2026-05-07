@@ -32,6 +32,9 @@ pnpm-debug.log*
 .bkit/
 .claude/
 
+# 내부 설계·기획·리포트 문서 — repo 노출 X (로컬 보존)
+docs/
+
 # Lockfiles 정책: npm 사용 시 package-lock.json은 커밋
 # (다른 패키지 매니저 lockfile은 무시)
 yarn.lock
